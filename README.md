@@ -1,6 +1,6 @@
 ## Sharika Gunalan
 
-## Data Analyst Portfolio
+## Data Analyst
 
 SQL | Excel | Power BI | Tableau Projects
 
