@@ -10,9 +10,10 @@ I am passionate about solving business problems through data and creating impact
 
 ## SKILLS:
 Data Analysis: SQL, Excel
+
 Data Visualization: Tableau, Microsoft Power BI
+
 Data Handling: Data Cleaning, Transformation
-Other Skills: Problem-solving, Analytical thinking
 
 ## 📊 PROJECTS:
 Kickstarter Crowdfunding Analysis
