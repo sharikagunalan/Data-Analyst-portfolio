@@ -1,5 +1,3 @@
-## Sharika Gunalan
-
 ## Data Analyst
 
 SQL | Excel | Power BI | Tableau Projects
