@@ -41,9 +41,9 @@ This project helps stakeholders understand what drives successful crowdfunding c
 
 ## 📜 Certification:
 - Data Analyst - Excelr
-    🔗 https://ibb.co/ks3Wz0qC
+     🔗 https://ibb.co/ks3Wz0qC
 - Nasscom Data Analyst
-    🔗  https://ibb.co/d4twT4jy
+     🔗  https://ibb.co/d4twT4jy
 
 ## 🔗 Links
 - GitHub: https://github.com/sharikagunalan
