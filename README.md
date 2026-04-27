@@ -1,7 +1,3 @@
-## Data Analyst
-
-SQL | Excel | Power BI | Tableau Projects
-
 ## ABOUT:
 I am an aspiring Data Analyst with a background in customer support and client-facing roles, recently transitioned into analytics. I specialize in transforming raw data into meaningful insights using SQL, Excel, and data visualization tools.
 I am passionate about solving business problems through data and creating impactful dashboards to support decision-making.
