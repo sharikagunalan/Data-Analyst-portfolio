@@ -52,3 +52,7 @@ This project helps stakeholders understand what drives successful crowdfunding c
 
 ## 💡 About This Portfolio
 This portfolio showcases my ability to analyze data, derive insights, and build interactive dashboards using SQL, Excel, Tableau, and Power BI to support business decision-making.
+
+## Project Main CSV File
+   🔗 Links 
+       https://drive.google.com/drive/folders/1kuWbU6D_txO7oMVq-WeyDFgrg2-JvazN?usp=drive_link
