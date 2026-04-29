@@ -63,7 +63,7 @@ This portfolio showcases my ability to analyze data, derive insights, and build 
 ![Tableau Dashboard](Tableau%20Dashboard.png)
 
 ## 📊 Power BI Dashboard
-![Power BI Dashboard](powerBI_dashboard.png)
+![Power BI Dashboard](PowerBI%20Dashboard.png)
 
 ### 🗄️ SQL Queries
 📄 [View SQL Queries](Crowdfunding_project.sql)
