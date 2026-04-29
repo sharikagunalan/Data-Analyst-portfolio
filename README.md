@@ -59,3 +59,6 @@ This portfolio showcases my ability to analyze data, derive insights, and build 
 🔗 Links  
     https://drive.google.com/drive/folders/12dF6NgDQrkttO89qFspbEWyK0Ks-yZHY?usp=drive_link
 
+### 📊 Tableau Dashboard
+![Tableau Dashboard] 
+https://github.com/sharikagunalan/Data-Analyst-Portfolio/edit/main/README.md#:~:text=Tableau%20Dashboard.-,png,-calender%20table.csv
