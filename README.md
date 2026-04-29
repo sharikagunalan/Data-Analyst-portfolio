@@ -70,4 +70,7 @@ This portfolio showcases my ability to analyze data, derive insights, and build 
 ### 🗄️ SQL Queries
 📄 [View SQL Queries](Crowdfunding_project.sql)
 
+📁 Dataset files are available in the `data/` folder of this repository.
+
+
 
