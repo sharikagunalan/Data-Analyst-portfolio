@@ -58,6 +58,8 @@ This portfolio showcases my ability to analyze data, derive insights, and build 
 ## Excel Project Attached
 🔗 Links  
     https://drive.google.com/drive/folders/12dF6NgDQrkttO89qFspbEWyK0Ks-yZHY?usp=drive_link
+    ![Excel Dashboard](Excel%20Dashboard.png)
+
 
 ### 📊 Tableau Dashboard
 ![Tableau Dashboard](Tableau%20Dashboard.png)
