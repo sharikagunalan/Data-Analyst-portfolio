@@ -60,7 +60,7 @@ This portfolio showcases my ability to analyze data, derive insights, and build 
     https://drive.google.com/drive/folders/12dF6NgDQrkttO89qFspbEWyK0Ks-yZHY?usp=drive_link
 
 ### 📊 Tableau Dashboard
-![Tableau Dashboard](Tableau Dashboard.png)
+![Tableau Dashboard](Tableau%20Dashboard.png)
 
 ## 📊 Power BI Dashboard
 ![Power BI Dashboard](powerBI_dashboard.png)
