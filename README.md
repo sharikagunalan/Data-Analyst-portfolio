@@ -54,3 +54,8 @@ This portfolio showcases my ability to analyze data, derive insights, and build 
 ## PROJECT MAIN CSV FILE
    🔗 Links 
        https://drive.google.com/drive/folders/1kuWbU6D_txO7oMVq-WeyDFgrg2-JvazN?usp=drive_link
+
+## Excel Project Attached
+🔗 Links  
+    https://drive.google.com/drive/folders/12dF6NgDQrkttO89qFspbEWyK0Ks-yZHY?usp=drive_link
+
