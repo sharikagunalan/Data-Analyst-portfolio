@@ -51,8 +51,10 @@ This project helps stakeholders understand what drives successful crowdfunding c
 ## 💡 ABOUT THIS PORTFOLIO
 This portfolio showcases my ability to analyze data, derive insights, and build interactive dashboards using SQL, Excel, Tableau, and Power BI to support business decision-making.
 
-## PROJECT MAIN CSV FILE
-   🔗 Links 
+## PROJECT CSV FILE
+📁 Dataset files are available in the `data/` folder of this repository.
+     # Project Main File
+       🔗 Links 
        https://drive.google.com/drive/folders/1kuWbU6D_txO7oMVq-WeyDFgrg2-JvazN?usp=drive_link
 
 ## Excel Project Attached
@@ -70,7 +72,6 @@ This portfolio showcases my ability to analyze data, derive insights, and build 
 ### 🗄️ SQL Queries
 📄 [View SQL Queries](Crowdfunding_project.sql)
 
-📁 Dataset files are available in the `data/` folder of this repository.
 
 
 
